@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "67197360157",
+    "firebase_url": "https://appduantotnghiep-85ce5-default-rtdb.firebaseio.com",
+    "project_id": "appduantotnghiep-85ce5",
+    "storage_bucket": "appduantotnghiep-85ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67197360157:android:cfd13c8fb9506f76f58ef4",
+        "android_client_info": {
+          "package_name": "com.example.appduantotnghiep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6rPhZ6MRadyCZC--ci8Gj6dAaMYthTyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
